@@ -1,4 +1,4 @@
-import random
+eimport random
 
 juego_continua = True
 
@@ -606,5 +606,5 @@ ANOTACIONES
   [[4,4],[4,1]]
   [[3,0],[4,1]]
   [[3,1],[4,1]] etc
-
+  prueeeeba
 """
